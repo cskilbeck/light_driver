@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=ON_OFF Pin=U2-11
+Added Pin To Net: NetName=ON_OFF Pin=U2-3
