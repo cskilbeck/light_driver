@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: U:\dev\light_driver\pcb\driver\driver.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Earth|Scope=Board|Minimum=98.43
+RuleKind=Clearance|RuleName=Clearance_Earth_NPTH|Scope=Board|Minimum=9.84
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_Other|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=Width_Normal|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_Mains|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_Earth_KO|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
