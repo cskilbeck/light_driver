@@ -1167,14 +1167,15 @@ Net1=NetName=ACL|NetColor=$005353C3
 Net2=NetName=ACL_F|NetColor=$005353C3
 Net3=NetName=ACL_R|NetColor=$005353C3
 Net4=NetName=ACL_S|NetColor=$005353C3
-Net5=NetName=ACN|NetColor=$00B6843C
+Net5=NetName=ACN|NetColor=$00AD7500
 Net6=NetName=ACN_R|NetColor=$00B6843C
-Net7=NetName=EARTH|NetColor=$0052A056
-Net8=NetName=GND|NetColor=$0000BE00
-Net9=NetName=NetL1_3|NetColor=$00FF6EFF
-Net10=NetName=NetRELAY1_3|NetColor=$00FF6EFF
-Net11=NetName=VCC10|NetColor=$00FF6E6E
-Net12=NetName=VCC5|NetColor=$00FFFF6E
+Net7=NetName=ACN_S|NetColor=$00AD7500
+Net8=NetName=EARTH|NetColor=$0052A056
+Net9=NetName=GND|NetColor=$0000BE00
+Net10=NetName=NetL1_3|NetColor=$00FF6EFF
+Net11=NetName=NetRELAY1_3|NetColor=$00FF6EFF
+Net12=NetName=VCC10|NetColor=$00FF6E6E
+Net13=NetName=VCC5|NetColor=$00FFFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
